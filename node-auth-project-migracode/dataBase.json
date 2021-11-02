@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Yonahan",
+        "email": "papa@frita.com",
+        "password": "$2b$10$vXTRgCHlgeedyzMBsv95cejIR/d7kBJEV5u4BOjvp1QSS/R9Fr1Aq",
+        "id": 1,
+        "friends": [
+            "Leroy",
+            "Marti",
+            "Ana",
+            "Labrasa"
+        ]
+    },
+    {
+        "name": "matt",
+        "email": "matt@hola.com",
+        "password": "$2b$10$J2k9e/nJjGzArLuQHHKol.Ln3BxSsFqfwwBpEf.25ntjhyPhtRcFC",
+        "id": 2
+    },
+    {
+        "name": "mauritsio",
+        "email": "matt@ola.com",
+        "password": "$2b$10$4SgYolkt6v6NuWoOpn1u1OR0VNOMBKOrz/J2b7jt534/ZJNKgRvwa",
+        "id": 3
+    },
+    {
+        "name": "laura",
+        "email": "laura@mail.com",
+        "password": "$2b$10$8XnXIO.xid8t7IuvwgfIV.gCOOw0tmG6y7E8iOuFFZPzN.m533HsS",
+        "id": 4
+    },
+    {
+        "name": "lauran",
+        "email": "lauran@mail.com",
+        "password": "$2b$10$j3flbwsPjfPSbNKe7BqzuOqOJoc8GK5W6MlAEQUqAm.R9LgwnsBCS",
+        "id": 5
+    },
+    {
+        "name": "nora",
+        "email": "maura@gmail.com",
+        "password": "$2b$10$hnRNoqaW4j9alPxV/RD3VuVf26j0muMnwPWKj6HR6/15Ywh16S5x.",
+        "id": 6
+    },
+    {
+        "name": "tobias",
+        "email": "tobias@mail.com",
+        "password": "$2b$10$NAZfFh9STFMtEGQx.DjQo.qgnOoX1blrmn3tXH0Y4jzrfaptlvobC",
+        "id": 7
+    }
+]
